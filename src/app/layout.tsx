@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://mohamad-umar-portfolio.vercel.app'),
+  alternates: {
+    canonical: '/',
+  },
   title: "Mohamad Umar | Premium Software Engineer & Web Developer",
   description: "Portfolio of Mohamad Umar, a passionate Full-Stack Web Developer and UI/UX Designer specializing in React, Next.js, and modern scalable architectures.",
   keywords: ["Mohamad Umar", "Software Engineer", "Web Developer", "React", "Next.js", "Full Stack", "UI/UX", "Portfolio"],
