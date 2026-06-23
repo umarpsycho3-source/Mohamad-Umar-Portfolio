@@ -33,6 +33,9 @@ export const metadata: Metadata = {
     title: "Mohamad Umar | Software Engineer",
     description: "Crafting premium, high-performance web applications.",
   },
+  verification: {
+    google: "RtVAWo1oEAMaqadSFD2sLwU1TkWTAvueacUFkjBqYtc",
+  },
 };
 
 import { Toaster } from "react-hot-toast";
