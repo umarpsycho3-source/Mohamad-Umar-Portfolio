@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/admin/', '/api/'], // Hide admin and api routes from search engines
     },
-    sitemap: 'https://umar-portfolio.com/sitemap.xml',
+    sitemap: 'https://mohamad-umar-portfolio.vercel.app/sitemap.xml',
   }
 }

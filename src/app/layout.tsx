@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://umar-portfolio.com'),
+  metadataBase: new URL('https://mohamad-umar-portfolio.vercel.app'),
   title: "Mohamad Umar | Premium Software Engineer & Web Developer",
   description: "Portfolio of Mohamad Umar, a passionate Full-Stack Web Developer and UI/UX Designer specializing in React, Next.js, and modern scalable architectures.",
   keywords: ["Mohamad Umar", "Software Engineer", "Web Developer", "React", "Next.js", "Full Stack", "UI/UX", "Portfolio"],
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Mohamad Umar | Software Engineer",
     description: "Crafting premium, high-performance web applications.",
-    url: "https://umar-portfolio.com", // You can update this to your actual domain later
+    url: "https://mohamad-umar-portfolio.vercel.app",
     siteName: "Mohamad Umar Portfolio",
     type: "website",
   },
